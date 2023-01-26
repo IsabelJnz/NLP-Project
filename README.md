@@ -1,1 +1,1 @@
-# NLP-Senitment-Analysis
+# NLP-Sentiment-Analysis
